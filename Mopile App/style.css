@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(128, 128, 128, 0.534);
+}
+
+#Block{
+    background-color: white;
+    padding-left: 200px;
+    padding-top: 10px;
+    height: 525px;
+    width: 800px;
+    margin-left: 25%;
+    font-family: 'Noto Sans Mono', monospace;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+div img{
+    width: 15px;
+    height: 15px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(165, 161, 161);
+    border-radius: 10px;
+    opacity: 0.8;
+    
+}
+#positionImg{
+    position: absolute;
+    top: 70px;
+    left:60px;
+    width: 500px;
+    height: 500px;
+    border-radius:10px;
+}
